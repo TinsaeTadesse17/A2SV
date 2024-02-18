@@ -1,15 +1,15 @@
 class Solution:
-  def minAddToMakeValid(self, s: str) -> int:
-    left = 0
-    right = 0
+    def minAddToMakeValid(self, s: str) -> int:
+        forwardBrace = 0
+        backwardBrace = 0
+        
+        for parenthesis  in s:
+            if parenthesis == "(":
+                forwardBrace += 1
+            else:
+                if forwardBrace > 0:
+                    forwardBrace -= 1
+                else:
+                    backwardBrace += 1
 
-    for char in s:
-      if char == '(':
-        left += 1
-      else:
-        if left == 0:
-          right += 1
-        else:
-          left -= 1
-
-    return left + right
+        return forwardBrace + backwardBrace
