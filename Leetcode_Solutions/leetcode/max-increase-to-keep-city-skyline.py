@@ -1,7 +1,32 @@
 class Solution:
-  def maxIncreaseKeepingSkyline(self, grid: List[List[int]]) -> int:
-    row = list(map(max, grid))
-    column = list(map(max, zip(*grid)))
-    val1 = sum(min(i, j) for i in row for j in column)
-    val2 = sum(map(sum, grid))
-    return  val1 - val2
+    def maxIncreaseKeepingSkyline(self, grid: List[List[int]]) -> int:
+        columnSkyLine = []
+        rowSkyLine = []
+        finalSum = 0
+        initialSum = 0
+        
+        for j in range(len(grid[0])):
+            skyLine = 0
+            for i in range(len(grid)):
+                skyLine = max(skyLine,grid[i][j])
+            columnSkyLine.append(skyLine)
+
+        for i in range(len(grid)):
+            skyLine = 0
+            for j in range(len(grid[0])):
+                skyLine = max(skyLine,grid[i][j])
+            rowSkyLine.append(skyLine)
+
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                finalSum += min(rowSkyLine[i],columnSkyLine[j])
+
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                initialSum += grid[i][j]
+    
+
+        return  finalSum - initialSum
+
+        
+
