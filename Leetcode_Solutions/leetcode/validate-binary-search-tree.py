@@ -1,4 +1,4 @@
-# Definition for a binary treeroot.
+# Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
@@ -6,16 +6,34 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
+        ans = True
+        
+        def postorder(root):
+            nonlocal ans  
 
-
-
-        def validBST(root, lower_bound=float('-inf'), upper_bound=float('inf')):
             if not root:
-                return True
+                return None
+            
+            left = postorder(root.left)
+            right = postorder(root.right)
+            
+            if left and left[1] >= root.val:
+                ans = False
+            if right and right[0] <= root.val:
+                ans = False
+            
+            temp = [0, 0]
+            temp[0] = root.val if not left else left[0]
+            temp[1] = root.val if not right else right[1]
+            
+            return temp
 
-            if root.val <= lower_bound or root.val >= upper_bound:
-                return False
+        postorder(root)
+        return ans
 
-            return validBST(root.left, lower_bound, root.val) and validBST(root.right, root.val, upper_bound)
 
-        return validBST(root)
+
+
+     
+
+        
