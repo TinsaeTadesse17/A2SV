@@ -28,4 +28,12 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
+## Array
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
