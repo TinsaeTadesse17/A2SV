@@ -41,6 +41,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Dynamic Programming
@@ -69,6 +70,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 ## Design
@@ -79,5 +81,6 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
