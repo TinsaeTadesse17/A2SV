@@ -70,6 +70,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -78,4 +79,5 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0908-middle-of-the-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
