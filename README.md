@@ -65,4 +65,12 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2803-modify-graph-edge-weights) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
