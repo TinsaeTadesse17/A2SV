@@ -34,6 +34,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
+| [1325-path-with-maximum-probability](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +53,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
+| [1325-path-with-maximum-probability](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2803-modify-graph-edge-weights) |
 ## Union Find
 |  |
@@ -61,10 +63,12 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1325-path-with-maximum-probability](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2803-modify-graph-edge-weights) |
 ## Linked List
 |  |
