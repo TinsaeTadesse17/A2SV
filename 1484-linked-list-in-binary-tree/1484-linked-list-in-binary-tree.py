@@ -14,15 +14,16 @@ class Solution:
         if not root:
             return False
         
-        # Function to match the linked list with tree
-        def match(head, root):
-            if not head:  # If matched fully
+        def match(head,root):
+            if not head: # all matched 
                 return True
-            if not root:  # If list not done but the tree is
+            if not root: # tree done before matching all
                 return False
-            if head.val != root.val:  
+
+            if root.val != head.val:
                 return False
-            return match(head.next, root.left) or match(head.next, root.right)
-        
-        # Check from current node or continue to left and right subtree
-        return match(head, root) or self.isSubPath(head, root.left) or self.isSubPath(head, root.right)
+
+            return match(head.next,root.right) or match(head.next,root.left)
+
+        return match(head,root) or self.isSubPath(head,root.left) or self.isSubPath(head,root.right)
+
