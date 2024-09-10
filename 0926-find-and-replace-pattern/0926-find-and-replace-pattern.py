@@ -9,9 +9,11 @@ class Solution:
                 if char in hashmap:
                     if hashmap[char] != pattern[idx]:
                         flag = False
+                        break
                 elif pattern[idx] in hashmap2:
                     if hashmap2[pattern[idx]] != char:
                         flag = False
+                        break
                 else:
                     hashmap[char] = pattern[idx]
                     hashmap2[pattern[idx]] = char
