@@ -42,6 +42,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2645-pass-the-pillow) |
 ## Array
@@ -105,6 +106,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1484-linked-list-in-binary-tree) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
