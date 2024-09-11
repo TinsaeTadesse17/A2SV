@@ -160,4 +160,8 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
