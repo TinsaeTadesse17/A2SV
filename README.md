@@ -62,6 +62,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2132-convert-1d-array-into-2d-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
@@ -167,4 +168,9 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
