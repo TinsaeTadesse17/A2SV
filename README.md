@@ -37,6 +37,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
@@ -77,6 +78,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -166,6 +168,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Bit Manipulation
 |  |
