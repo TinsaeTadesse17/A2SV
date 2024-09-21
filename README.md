@@ -20,6 +20,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1484-linked-list-in-binary-tree) |
@@ -208,4 +209,8 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
