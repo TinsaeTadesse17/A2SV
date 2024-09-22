@@ -213,4 +213,5 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
