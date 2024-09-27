@@ -67,6 +67,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 | [0906-walking-robot-simulation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
 | [1325-path-with-maximum-probability](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
@@ -143,6 +144,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 | [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
 ## Two Pointers
 |  |
@@ -159,10 +161,12 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Breadth-First Search
@@ -234,8 +238,10 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
