@@ -68,6 +68,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
 | [1325-path-with-maximum-probability](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
@@ -134,6 +135,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0725-split-linked-list-in-parts](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -146,6 +148,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 | [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,4 +247,8 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
