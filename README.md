@@ -72,6 +72,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
+| [1256-rank-transform-of-an-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
@@ -101,6 +102,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0920-uncommon-words-from-two-sentences](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1256-rank-transform-of-an-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2755-extra-characters-in-a-string) |
@@ -200,6 +202,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0179-largest-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
