@@ -78,6 +78,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1435-xor-queries-of-a-subarray](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
@@ -105,6 +106,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1256-rank-transform-of-an-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1694-make-sum-divisible-by-p) |
 | [2755-extra-characters-in-a-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -181,6 +183,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
+| [1694-make-sum-divisible-by-p](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Breadth-First Search
 |  |
