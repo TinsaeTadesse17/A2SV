@@ -14,11 +14,9 @@ class Solution:
 
             if rabbit == tortoise:
                 tortoise = head
-                index = 0
                 while rabbit != tortoise:
                     tortoise = tortoise.next
                     rabbit = rabbit.next
-                    index += 1
                 return tortoise
 
         return None
