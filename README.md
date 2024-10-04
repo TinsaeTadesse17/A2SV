@@ -7,6 +7,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Tree
@@ -145,6 +146,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
@@ -169,6 +171,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
@@ -233,6 +236,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
