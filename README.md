@@ -43,6 +43,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0214-shortest-palindrome](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
@@ -102,6 +103,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0142-linked-list-cycle-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
@@ -180,6 +182,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
@@ -289,4 +292,8 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0432-all-oone-data-structure) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
