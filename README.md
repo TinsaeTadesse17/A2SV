@@ -101,6 +101,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
@@ -152,6 +153,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0086-partition-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0237-delete-node-in-a-linked-list) |
@@ -168,6 +170,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
@@ -291,6 +294,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0432-all-oone-data-structure) |
 ## Sliding Window
 |  |
