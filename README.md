@@ -36,6 +36,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2645-pass-the-pillow) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -101,6 +102,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0179-largest-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Hash Table
 |  |
 | ------- |
