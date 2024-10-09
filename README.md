@@ -9,6 +9,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -52,6 +53,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0768-partition-labels](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1923-sentence-similarity-iii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -112,6 +114,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0330-patching-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0330-patching-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0768-partition-labels](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0768-partition-labels) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
