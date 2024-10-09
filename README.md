@@ -10,6 +10,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
@@ -51,6 +52,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0768-partition-labels](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1923-sentence-similarity-iii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -140,6 +142,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0055-jump-game](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2755-extra-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
