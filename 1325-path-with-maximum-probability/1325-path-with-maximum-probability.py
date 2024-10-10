@@ -1,30 +1,28 @@
 class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start_node: int, end_node: int) -> float:
+
         graph = defaultdict(list)
         for i in range(len(edges)):
-            src , dest = edges[i]
-            graph[src].append([dest,succProb[i]])
-            graph[dest].append([src,succProb[i]])
+            graph[edges[i][0]].append((edges[i][1], succProb[i]))
+            graph[edges[i][1]].append((edges[i][0], succProb[i]))
 
+        probabilities = {node: float('-inf') for node in range(n)}
+        probabilities[start_node] = 1  
 
-        priority_queue = [(-1 , start_node)] #tryna build a max heap as the probability as comparison key
-        visited = set()
+        heap = [(-1, start_node)] 
+        processed = set()
 
-        while priority_queue:
-            succ_prob , curr_node = heapq.heappop(priority_queue)
-            visited.add(curr_node)
+        while heap:
+            succ_prob, curr_node = heapq.heappop(heap)
+            succ_prob *= -1  
 
             if curr_node == end_node:
-                return -1 * succ_prob
+                return succ_prob
 
-            for neighbor , edge_prob in graph[curr_node]:
-                if neighbor not in visited:
-                    heapq.heappush(priority_queue,(succ_prob * edge_prob , neighbor))
+            for neighbor, edge_prob in graph[curr_node]:
+                new_prob = succ_prob * edge_prob  
+                if new_prob > probabilities[neighbor]:
+                    probabilities[neighbor] = new_prob
+                    heapq.heappush(heap, (-new_prob, neighbor))  
 
-        return 0
-
-
-
-
-
-        
+        return 0  
