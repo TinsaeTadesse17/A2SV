@@ -10,6 +10,9 @@ class Solution:
             for u , v, w in times:
                 curr[v-1] = min(prev[u-1] + w , curr[v-1])
 
+            if prev == curr:
+                break
+                
             prev = curr.copy()
 
         return max(curr) if max(curr) != float("inf") else -1
