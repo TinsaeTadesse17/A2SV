@@ -8,6 +8,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
@@ -89,6 +90,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
@@ -374,5 +376,6 @@ This is where I chart my course through the world of competitive programming. Th
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
