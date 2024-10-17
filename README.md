@@ -40,6 +40,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
+| [0670-maximum-swap](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -128,6 +129,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0330-patching-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0330-patching-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
