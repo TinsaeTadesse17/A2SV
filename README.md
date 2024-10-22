@@ -124,6 +124,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2132-convert-1d-array-into-2d-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2411-spiral-matrix-iv) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -205,6 +206,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1304-longest-happy-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2803-modify-graph-edge-weights) |
@@ -220,6 +222,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -228,6 +231,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0803-cheapest-flights-within-k-stops](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2803-modify-graph-edge-weights) |
 ## Linked List
 |  |
@@ -283,6 +287,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
@@ -305,6 +310,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0744-network-delay-time](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1484-linked-list-in-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1484-linked-list-in-binary-tree) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
