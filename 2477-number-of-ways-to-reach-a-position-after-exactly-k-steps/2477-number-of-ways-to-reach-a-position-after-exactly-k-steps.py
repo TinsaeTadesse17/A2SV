@@ -6,13 +6,10 @@ class Solution:
         a = (k - diff) // 2
         b = a + diff
 
-        if a < 0  or b < 0:
+        if a < 0  or b < 0 or (k - diff) % 2:
             return 0
         elif diff == 0:
             return factorial(k) // (factorial(k//2)* factorial(k//2)) % mod
-
-        elif (k - diff) % 2:
-            return 0
         else:
             return factorial(k) // (factorial(a)* factorial(b)) % mod
 
