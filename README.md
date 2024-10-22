@@ -39,6 +39,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
@@ -182,6 +183,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -414,4 +416,8 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
