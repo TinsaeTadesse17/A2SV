@@ -50,6 +50,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
 | [2187-vowels-of-all-substrings](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2645-pass-the-pillow](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2645-pass-the-pillow) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -192,6 +193,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2187-vowels-of-all-substrings](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2755-extra-characters-in-a-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2755-extra-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -424,4 +426,5 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0062-unique-paths](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 <!---LeetCode Topics End-->
