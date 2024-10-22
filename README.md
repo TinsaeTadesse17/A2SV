@@ -126,6 +126,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2755-extra-characters-in-a-string) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
@@ -265,6 +266,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 ## Matrix
 |  |
