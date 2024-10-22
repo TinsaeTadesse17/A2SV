@@ -44,6 +44,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
+| [2050-count-good-numbers](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2645-pass-the-pillow](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2645-pass-the-pillow) |
@@ -348,6 +349,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
