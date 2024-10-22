@@ -48,6 +48,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1018-largest-perimeter-triangle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [2050-count-good-numbers](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
+| [2187-vowels-of-all-substrings](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2645-pass-the-pillow](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2645-pass-the-pillow) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -73,6 +74,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1923-sentence-similarity-iii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2187-vowels-of-all-substrings](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2755-extra-characters-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
@@ -189,6 +191,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0803-cheapest-flights-within-k-stops](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2187-vowels-of-all-substrings](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2755-extra-characters-in-a-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2755-extra-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -420,4 +423,5 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0062-unique-paths) |
+| [2187-vowels-of-all-substrings](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
