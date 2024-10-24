@@ -22,6 +22,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0110-balanced-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -35,6 +36,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1484-linked-list-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Math
@@ -321,6 +323,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
+| [0988-flip-equivalent-binary-trees](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
