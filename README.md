@@ -107,6 +107,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0055-jump-game](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0179-largest-number) |
+| [0307-range-sum-query-mutable](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
 | [0330-patching-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0330-patching-array) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
@@ -284,6 +285,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0146-lru-cache) |
+| [0307-range-sum-query-mutable](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
@@ -428,6 +430,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
@@ -469,4 +472,8 @@ This is where I chart my course through the world of competitive programming. Th
 | [0062-unique-paths](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
