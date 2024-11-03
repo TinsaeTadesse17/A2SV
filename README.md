@@ -71,6 +71,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0768-partition-labels](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -415,6 +416,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
