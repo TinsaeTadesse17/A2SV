@@ -91,6 +91,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2755-extra-characters-in-a-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2755-extra-characters-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3451-string-compression-iii) |
 ## Simulation
 |  |
 | ------- |
