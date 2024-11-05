@@ -109,6 +109,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0179-largest-number) |
 | [0307-range-sum-query-mutable](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
@@ -183,6 +184,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0146-lru-cache) |
@@ -316,6 +318,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
