@@ -20,6 +20,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0988-flip-equivalent-binary-trees) |
@@ -31,6 +32,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0386-lexicographical-numbers) |
 | [0744-network-delay-time](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0744-network-delay-time) |
@@ -277,6 +279,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0021-merge-two-sorted-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0086-partition-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0146-lru-cache) |
@@ -349,6 +352,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0744-network-delay-time](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -361,6 +365,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0110-balanced-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0988-flip-equivalent-binary-trees](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1484-linked-list-in-binary-tree) |
