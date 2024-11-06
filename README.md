@@ -162,6 +162,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
@@ -391,6 +392,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -405,6 +407,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3291-find-if-array-can-be-sorted) |
 ## Brainteaser
 |  |
 | ------- |
