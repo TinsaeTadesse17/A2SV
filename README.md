@@ -337,6 +337,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0278-first-bad-version) |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -498,4 +499,8 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
