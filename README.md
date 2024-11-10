@@ -67,6 +67,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
@@ -196,6 +197,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0146-lru-cache) |
@@ -483,6 +485,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
