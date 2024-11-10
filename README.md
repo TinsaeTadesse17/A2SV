@@ -118,6 +118,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0036-valid-sudoku](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0179-largest-number) |
+| [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
 | [0330-patching-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0330-patching-array) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
@@ -249,6 +250,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0744-network-delay-time) |
@@ -480,6 +482,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
@@ -491,6 +494,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -523,4 +527,8 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0278-first-bad-version) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
