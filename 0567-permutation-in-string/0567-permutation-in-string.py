@@ -1,10 +1,10 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        hashmap = Counter(s1)
-        left , right = 0 , len(s1)
-        while right <= len(s2):
-            if hashmap == Counter(s2[left:right]):
+        n , m = len(s2) , len(s1)
+        count1 = Counter(s1)
+
+        for i in range(n-m+1):
+            if Counter(s2[i:i+m]) == count1:
                 return True
-            right += 1
-            left += 1
         return False
+
