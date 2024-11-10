@@ -72,6 +72,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0179-largest-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
@@ -204,6 +205,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0142-linked-list-cycle-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -489,6 +491,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
