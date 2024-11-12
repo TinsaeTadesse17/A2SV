@@ -7,6 +7,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -69,6 +70,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0214-shortest-palindrome) |
