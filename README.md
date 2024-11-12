@@ -10,6 +10,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0020-valid-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -326,6 +327,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0155-min-stack) |
 | [0307-range-sum-query-mutable](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0729-my-calendar-i) |
