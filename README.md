@@ -332,6 +332,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 | [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Two Pointers
 |  |
@@ -501,6 +502,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -548,4 +550,8 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
