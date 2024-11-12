@@ -9,6 +9,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0020-valid-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -52,6 +53,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0050-powx-n](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
@@ -124,6 +126,7 @@ This is where I chart my course through the world of competitive programming. Th
 | ------- |
 | [0036-valid-sudoku](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0055-jump-game) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
