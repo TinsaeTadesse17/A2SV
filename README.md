@@ -8,6 +8,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0155-min-stack) |
@@ -126,6 +127,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0179-largest-number) |
@@ -246,6 +248,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
@@ -340,6 +343,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
@@ -523,6 +527,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 ## Backtracking
