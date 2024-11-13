@@ -120,6 +120,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2195-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2645-pass-the-pillow) |
@@ -166,6 +167,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2195-time-needed-to-buy-tickets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2195-time-needed-to-buy-tickets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2411-spiral-matrix-iv) |
@@ -509,6 +511,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
+| [2195-time-needed-to-buy-tickets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2195-time-needed-to-buy-tickets) |
 ## Doubly-Linked List
 |  |
 | ------- |
