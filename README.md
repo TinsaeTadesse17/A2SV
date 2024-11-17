@@ -86,6 +86,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
+| [0649-dota2-senate](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0886-score-of-parentheses) |
@@ -198,6 +199,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0330-patching-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0330-patching-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0649-dota2-senate](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
@@ -511,6 +513,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [2195-time-needed-to-buy-tickets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2195-time-needed-to-buy-tickets) |
