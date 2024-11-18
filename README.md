@@ -13,6 +13,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0150-evaluate-reverse-polish-notation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0886-score-of-parentheses) |
@@ -136,6 +137,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0307-range-sum-query-mutable) |
 | [0330-patching-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0330-patching-array) |
+| [0496-next-greater-element-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -232,6 +234,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -548,6 +551,7 @@ This is where I chart my course through the world of competitive programming. Th
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 ## Backtracking
