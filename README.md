@@ -18,6 +18,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0886-score-of-parentheses) |
+| [0943-sum-of-subarray-minimums](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1197-parsing-a-boolean-expression) |
@@ -153,6 +154,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0926-find-and-replace-pattern) |
+| [0943-sum-of-subarray-minimums](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1095-two-city-scheduling) |
@@ -267,6 +269,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0943-sum-of-subarray-minimums](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -556,6 +559,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0496-next-greater-element-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
+| [0943-sum-of-subarray-minimums](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 ## Backtracking
 |  |
