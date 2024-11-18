@@ -144,6 +144,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0860-design-circular-queue) |
 | [0890-lemonade-change](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0906-walking-robot-simulation) |
@@ -327,6 +328,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0725-split-linked-list-in-parts](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -344,6 +346,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0731-my-calendar-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0731-my-calendar-ii) |
 | [0838-design-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Two Pointers
@@ -519,6 +522,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0239-sliding-window-maximum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [2195-time-needed-to-buy-tickets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2195-time-needed-to-buy-tickets) |
