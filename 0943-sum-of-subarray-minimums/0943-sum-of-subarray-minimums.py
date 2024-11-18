@@ -4,7 +4,7 @@ class Solution:
         left_monstack = []
         left = [-1] * n
         for i in range(n):
-            while left_monstack and arr[i] < arr[left_monstack[-1]]:
+            while left_monstack and arr[i] <= arr[left_monstack[-1]]:
                 left_monstack.pop()
             if left_monstack:
                 left[i] = left_monstack[-1]
@@ -16,7 +16,7 @@ class Solution:
         right_monstack = []
         right = [n] * n
         for i in range(n-1,-1,-1):
-            while right_monstack  and arr[i] <= arr[right_monstack [-1]]:
+            while right_monstack  and arr[i] < arr[right_monstack [-1]]:
                 right_monstack.pop()
             if right_monstack:
                 right[i] = right_monstack[-1]
@@ -29,3 +29,5 @@ class Solution:
             ans += ((i - left[i]) * (right[i] - i)) * arr[i]
 
         return ans % (10**9 + 7)
+
+        [1,1,2,3]
