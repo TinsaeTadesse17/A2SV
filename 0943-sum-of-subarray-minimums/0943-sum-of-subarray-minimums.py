@@ -4,7 +4,7 @@ class Solution:
         left_monstack = []
         left = [-1] * n
         for i in range(n):
-            while left_monstack and arr[i] <= arr[left_monstack[-1]]:
+            while left_monstack and arr[i] <= arr[left_monstack[-1]]: # if this is less or equal, the right stack needs to be less only, to account for the duplicates and avoid counting twice, they need to be included on the right or the left but not both
                 left_monstack.pop()
             if left_monstack:
                 left[i] = left_monstack[-1]
@@ -30,4 +30,3 @@ class Solution:
 
         return ans % (10**9 + 7)
 
-        [1,1,2,3]
