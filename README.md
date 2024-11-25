@@ -62,6 +62,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0150-evaluate-reverse-polish-notation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
+| [0342-power-of-four](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0670-maximum-swap) |
@@ -483,6 +484,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0342-power-of-four) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -504,6 +506,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0206-reverse-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
