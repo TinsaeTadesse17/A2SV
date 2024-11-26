@@ -326,6 +326,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3189-find-champion-ii) |
 ## Shortest Path
 |  |
 | ------- |
