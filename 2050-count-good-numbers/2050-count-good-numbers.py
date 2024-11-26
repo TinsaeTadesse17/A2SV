@@ -1,16 +1,17 @@
 class Solution:
     def countGoodNumbers(self, n: int) -> int:
+        def modular_expo(base,exp,m):
+            res = 1
+            while exp > 0:
+                if exp & 1 :
+                    res = (res * base) % m
+                base = (base * base) % m
+                exp >>= 1
+            return res
+
         m = 10 ** 9 + 7
-        def binary_expo(a,b):
-            if b == 0:
-                return 1
+        even_pos = ceil(n/2)
+        odd_pos = n // 2
 
-            if b % 2 == 0:
-                return binary_expo((a * a) % m , b//2)
-            else:
-                return a * binary_expo((a * a) % m , (b-1) // 2)
+        return  (modular_expo(5 , even_pos,m) * modular_expo(4 , odd_pos , m)) % m
 
-        if n % 2:
-            return (binary_expo(5,ceil(n/2)) % m * binary_expo(4,n//2) % m) % m
-        else:
-            return (binary_expo(5,n/2) % m * binary_expo(4,n/2) % m) % m
