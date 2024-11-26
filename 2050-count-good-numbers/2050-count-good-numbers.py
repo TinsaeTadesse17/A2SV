@@ -1,13 +1,12 @@
 class Solution:
     def countGoodNumbers(self, n: int) -> int:
-        def modular_expo(base,exp,m):
-            res = 1
-            while exp > 0:
-                if exp & 1 :
-                    res = (res * base) % m
-                base = (base * base) % m
-                exp >>= 1
-            return res
+        def modular_expo(base,exp,m,res = 1):
+            if exp <= 0:
+                return res
+            if exp & 1:
+                res = (res * base) % m
+            return modular_expo((base * base) % m, exp // 2, m , res)
+
 
         m = 10 ** 9 + 7
         even_pos = ceil(n/2)
