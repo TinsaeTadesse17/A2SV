@@ -78,6 +78,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2715-k-items-with-the-maximum-sum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -136,6 +137,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2645-pass-the-pillow) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -501,6 +503,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [3291-find-if-array-can-be-sorted](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3394-minimum-array-end) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -518,6 +521,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1197-parsing-a-boolean-expression](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
