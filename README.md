@@ -137,6 +137,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2645-pass-the-pillow) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
@@ -207,6 +208,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2755-extra-characters-in-a-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -316,6 +318,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2803-modify-graph-edge-weights](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2803-modify-graph-edge-weights) |
 ## Union Find
 |  |
