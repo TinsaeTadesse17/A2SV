@@ -23,6 +23,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1002-maximum-width-ramp](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -179,6 +180,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1694-make-sum-divisible-by-p) |
@@ -608,6 +610,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0739-daily-temperatures](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
 |  |
