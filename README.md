@@ -71,6 +71,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [1013-fibonacci-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [2050-count-good-numbers](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2050-count-good-numbers) |
+| [2083-three-divisors](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2083-three-divisors) |
 | [2155-find-missing-observations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2155-find-missing-observations) |
 | [2187-vowels-of-all-substrings](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2187-vowels-of-all-substrings) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -477,6 +478,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2507-number-of-common-factors) |
 | [2716-prime-subtraction-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
@@ -624,6 +626,7 @@ This is where I chart my course through the world of competitive programming. Th
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2507-number-of-common-factors](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2507-number-of-common-factors) |
 ## Combinatorics
