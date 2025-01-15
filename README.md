@@ -64,6 +64,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [0241-different-ways-to-add-parentheses](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/0670-maximum-swap) |
