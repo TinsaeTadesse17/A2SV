@@ -81,6 +81,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2645-pass-the-pillow](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2645-pass-the-pillow) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2716-prime-subtraction-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
+| [2722-prime-in-diagonal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -218,6 +219,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
+| [2722-prime-in-diagonal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2722-prime-in-diagonal) |
 | [2755-extra-characters-in-a-string](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2755-extra-characters-in-a-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -427,6 +429,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2411-spiral-matrix-iv) |
+| [2722-prime-in-diagonal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2722-prime-in-diagonal) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
@@ -482,6 +485,7 @@ This is where I chart my course through the world of competitive programming. Th
 | [2491-smallest-even-multiple](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2507-number-of-common-factors) |
 | [2716-prime-subtraction-operation](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
+| [2722-prime-in-diagonal](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TinsaeTadesse17/Competitive-Programming/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Sorting
 |  |
